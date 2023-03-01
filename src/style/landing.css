@@ -1,5 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
-    background-color: black;
+.parent{
+    display: flex;
+}
+
+.header{
+    display: flex;
+    width: 15%;
+    height: 100vh;
+    position: sticky;
+    border: 1px solid white;
+    justify-content: end;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.space{
+    margin: 10px;
 }
