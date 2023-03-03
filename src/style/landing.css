@@ -7,8 +7,7 @@
     width: 15%;
     height: 100vh;
     position: sticky;
-    border: 1px solid white;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .menu{
@@ -20,4 +19,9 @@
 
 .space{
     margin: 10px;
+}
+
+.Main{
+    border: 1px solid #4e4e4e;
+    width: 55%;
 }
