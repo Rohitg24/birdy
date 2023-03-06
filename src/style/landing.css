@@ -22,6 +22,7 @@
 }
 
 .Main{
-    border: 1px solid #4e4e4e;
+    border-left: 1px solid #4e4e4e;
+    border-right: 1px solid #4e4e4e;
     width: 55%;
 }
