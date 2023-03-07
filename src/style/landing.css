@@ -26,3 +26,27 @@
     border-right: 1px solid #4e4e4e;
     width: 55%;
 }
+
+.side_nav{
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.logo{
+    margin-bottom: 20px;
+}
+
+.menu{
+    margin: 20px 0px;
+}
+
+.item{
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+.title{
+    padding: 10px;
+    padding-bottom: 75px;
+    border-bottom: 1px solid #4e4e4e;
+}
