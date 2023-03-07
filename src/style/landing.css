@@ -59,10 +59,30 @@
 .profile-pic{
     width: 55px;
     height: 55px;
+    padding: 10px;
+    padding: 10px 5px 65px 20px;
 }
 
 .profile-pic img{
     width: 100%;
     height: auto;
     border-radius: 50%;
+}
+
+.text-input{
+    width: 100%;
+    padding: 30px 16px;
+}
+
+.text-input input{
+    border: none;
+    font-size: 25px;
+    font-weight: 400;
+    width: 100%;
+    padding: 15px 0px 25px 0px;
+    border-bottom: 1px solid #4e4e4e;
+}
+
+.text-input input:focus{
+    outline: none;
 }

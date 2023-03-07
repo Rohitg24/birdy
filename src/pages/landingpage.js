@@ -170,7 +170,8 @@ function LandingPage() {
           </div>
           <div className="text-input">
             <input type="textarea" placeholder="What's happening?" />
-            <div className="icon-list">
+            <div className="text-bar">
+              <div className="icon-list"></div>
               <button className="tweet-btn">Tweet</button>
             </div>
           </div>
