@@ -1,5 +1,6 @@
 import React from "react";
 import "../style/landing.css";
+import naruto from "../assets/naruto.png";
 
 function LandingPage() {
   return (
@@ -164,9 +165,11 @@ function LandingPage() {
           <h2>Home</h2>
         </div>
         <div className="tweet">
-          <div className="profile-pic"></div>
+          <div className="profile-pic">
+            <img src={naruto} alt="profile" />
+          </div>
           <div className="text-input">
-            <input type="textarea" />
+            <input type="textarea" placeholder="What's happening?" />
             <div className="icon-list">
               <button className="tweet-btn">Tweet</button>
             </div>

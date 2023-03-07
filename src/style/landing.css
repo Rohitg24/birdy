@@ -50,3 +50,19 @@
     padding-bottom: 75px;
     border-bottom: 1px solid #4e4e4e;
 }
+
+.tweet{
+    display: flex;
+    border-bottom: 1px solid #4e4e4e;
+}
+
+.profile-pic{
+    width: 55px;
+    height: 55px;
+}
+
+.profile-pic img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
