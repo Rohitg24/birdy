@@ -86,3 +86,8 @@
 .text-input input:focus{
     outline: none;
 }
+
+.text-bar{
+    display: flex;
+    justify-content: space-between;
+}
