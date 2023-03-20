@@ -377,7 +377,11 @@ function LandingPage() {
                 </span>
               </div>
               <div id="msg" className="post-msg">
-                asdf
+                A sample refers to a smaller, manageable version of a larger
+                group. It is a subset containing the characteristics of a larger
+                population. Samples are used in statistical testing when
+                population sizes are too large for the test to include all
+                possible members or observations.
               </div>
             </div>
           </div>
