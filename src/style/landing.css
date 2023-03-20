@@ -60,7 +60,6 @@
     width: 55px;
     height: 55px;
     padding: 10px;
-    padding: 10px 5px 65px 20px;
 }
 
 .profile-pic img{
@@ -114,4 +113,22 @@
 
 .post{
     display: flex;
+}
+
+.username{
+    display: flex;
+}
+
+.post-space{
+    padding-top: 15px;
+}
+
+.pd{
+    padding-left: 5px;
+    color: #71767B;
+}
+
+.post-msg{
+    font-size: 18px;
+    font-weight: 400;
 }

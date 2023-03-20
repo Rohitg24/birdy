@@ -366,7 +366,20 @@ function LandingPage() {
             <div className="profile-pic">
               <img src={naruto} alt="profile" />
             </div>
-            <div className="username">Naruto</div>
+            <div className="post-space">
+              <div className="username">
+                <h4 id="user">Naruto</h4>
+                <span id="tag" className="pd">
+                  @naruto
+                </span>
+                <span id="timestamp" className="pd">
+                  April 2
+                </span>
+              </div>
+              <div id="msg" className="post-msg">
+                asdf
+              </div>
+            </div>
           </div>
         </div>
       </div>
