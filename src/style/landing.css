@@ -24,7 +24,7 @@
 .Main{
     border-left: 1px solid #4e4e4e;
     border-right: 1px solid #4e4e4e;
-    width: 55%;
+    width: 48%;
 }
 
 .side_nav{
@@ -90,4 +90,24 @@
 .text-bar{
     display: flex;
     justify-content: space-between;
+}
+
+.icon-list {
+    padding: 15px 0px;
+}
+
+.icon-list a{
+    margin: 0px 10px;
+}
+
+.tweet-btn{
+    font-family: sans-serif;
+    font-weight: 500;
+    width: 90px;
+    height: 40px;
+    background: #1D9BF0;
+    font-size: 19px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 15px;
 }
