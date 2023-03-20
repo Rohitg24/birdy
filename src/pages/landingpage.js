@@ -361,7 +361,14 @@ function LandingPage() {
             </div>
           </div>
         </div>
-        <div className="feed"></div>
+        <div className="feed">
+          <div className="post">
+            <div className="profile-pic">
+              <img src={naruto} alt="profile" />
+            </div>
+            <div className="username">Naruto</div>
+          </div>
+        </div>
       </div>
       {/*SideBar*/}
       <div className="Sidebar"></div>
