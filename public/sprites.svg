@@ -37,5 +37,18 @@
             <path
                 d="M17,18H15A11,11,0,0,0,4,29a1,1,0,0,0,1,1H27a1,1,0,0,0,1-1A11,11,0,0,0,17,18ZM6.06,28A9,9,0,0,1,15,20h2a9,9,0,0,1,8.94,8Z" />
         </symbol>
+        <symbol id="img" viewBox="0 0 192 192">
+            <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" />
+
+            <g id="SVGRepo_iconCarrier">
+                <path stroke="#1D9BF0" stroke-width="12"
+                    d="M30 40c0-5.523 4.477-10 10-10h112c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H40c-5.523 0-10-4.477-10-10V40Z" />
+
+                <path stroke="#1D9BF0" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"
+                    d="m30 138 34-34 24 24 40-40 34 34" />
+            </g>
+        </symbol>
     </defs>
 </svg>

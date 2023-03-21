@@ -87,36 +87,12 @@ function LandingPage() {
               <div className="icon-list">
                 <a href="#">
                   <svg
-                    xmlns="http://www.w3.org/2000/svg"
                     width="25px"
                     height="25px"
                     viewBox="0 0 192 192"
-                    fill="none"
                     stroke="#1D9BF0"
                   >
-                    <g id="SVGRepo_bgCarrier" strokeWidth="0" />
-
-                    <g
-                      id="SVGRepo_tracerCarrier"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-
-                    <g id="SVGRepo_iconCarrier">
-                      <path
-                        stroke="#1D9BF0"
-                        strokeWidth="12"
-                        d="M30 40c0-5.523 4.477-10 10-10h112c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H40c-5.523 0-10-4.477-10-10V40Z"
-                      />
-
-                      <path
-                        stroke="#1D9BF0"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth="12"
-                        d="m30 138 34-34 24 24 40-40 34 34"
-                      />
-                    </g>
+                    <use xlinkHref="sprites.svg#img" />
                   </svg>
                 </a>
                 <a href="#">
