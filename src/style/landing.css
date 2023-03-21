@@ -116,6 +116,8 @@
 
 .post{
     display: flex;
+    border-bottom: 1px solid #4e4e4e;
+
 }
 
 .username{
