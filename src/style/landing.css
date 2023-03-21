@@ -70,19 +70,22 @@
 
 .text-input{
     width: 100%;
-    padding: 30px 16px;
+    padding: 15px 15px;
 }
 
-.text-input input{
+.text-input textarea{
+    font-family: sans-serif;
     border: none;
     font-size: 25px;
     font-weight: 400;
     width: 100%;
     padding: 15px 0px 25px 0px;
     border-bottom: 1px solid #4e4e4e;
+    resize: none;
+    overflow: hidden;
 }
 
-.text-input input:focus{
+.text-input textarea:focus{
     outline: none;
 }
 
@@ -131,4 +134,5 @@
 .post-msg{
     font-size: 18px;
     font-weight: 400;
+    max-width: 600px;
 }
